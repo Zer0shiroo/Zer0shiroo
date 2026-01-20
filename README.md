@@ -52,10 +52,4 @@ Currently: exploring new ways to build intuitive and clean web experiences
 
 ---
 
-<h4 align="center">Thanks for stopping by 🖤</h4>
-<p align="center">
-  <img src="expe33.gif" width="1000px" />
-</p>
-
----
 
