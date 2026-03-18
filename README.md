@@ -9,9 +9,9 @@
 ### 🧠 About Me
 
 ```yaml
-Name: Zer0shiroo
+Name: Ángel Pérez
 Location: Spain
-Languages: JavaScript, TypeScript, HTML/CSS, Node.js, PHP
+Languages: JavaScript, TypeScript, HTML/CSS, Node.js, PHP, Python, C
 Interests: web development, UI/UX design, chillwave music, dark terminal
 Currently: exploring new ways to build intuitive and clean web experiences
 ````
