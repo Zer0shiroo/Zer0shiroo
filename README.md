@@ -39,16 +39,7 @@ Currently: exploring new ways to build intuitive and clean web experiences
 
 ---
 
-### 🛰️ Contact
 
-<p align="center">
-  <a href="https://www.instagram.com/angel_perez_gutierrez/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=1DA1F2"/>
-  </a>
-  <a href="https://www.pinterest.com.mx/Zer0shiro/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=7289DA"/>
-  </a>
-</p>
 
 ---
 
